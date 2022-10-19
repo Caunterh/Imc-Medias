@@ -1,5 +1,5 @@
 
-  Cauã Souza Correa
-  Willian Roscoe
-  Mario Henrique do Santos
+  - Cauã Souza Correa
+  - Willian Roscoe
+  - Mario Henrique do Santos
 
